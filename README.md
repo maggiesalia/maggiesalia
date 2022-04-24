@@ -8,7 +8,7 @@
 
  <br />
  
- #### How to reach me: 
+ #### How to reach me
 🚀 https://linktr.ee/talk.code.to.me
 
 <br />
