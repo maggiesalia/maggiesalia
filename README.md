@@ -8,7 +8,7 @@
 - ⚡️ Coding >_ Currently learning Android Development 
 - 🧘 Yoga
 - 🏕️ Hiking & outdoor 
-- 🥞 Pancake mom 
+- :pancakes: Pancake mom 
 
 
  <br />
