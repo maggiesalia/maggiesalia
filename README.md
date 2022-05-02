@@ -52,8 +52,7 @@
 </div>
 
 
-<br />
-   
+<br />  
    
 <!-- profile views  -->
 ![image title](https://rushter.com/counter.svg)
