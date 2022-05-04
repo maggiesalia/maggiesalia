@@ -53,7 +53,10 @@
 
 
 <br />  
-   
-<!-- profile views  -->
-![image title](https://rushter.com/counter.svg)
+  
 
+<!-- Github snake -->
+![GitHub Snake dark](https://github.com/maggiesalia/maggiesalia/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+
+<!-- profile views  -->
+<!-- ![image title](https://rushter.com/counter.svg) -->
