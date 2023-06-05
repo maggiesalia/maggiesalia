@@ -5,7 +5,7 @@
 
 <!-- About me -->
 ### About me  
-- ⚡️ Coding >_ Currently learning Android Development 
+- ⚡️ Coding >_
 - 🧘 Yoga
 - 🏕️ Hiking & outdoor 
 
